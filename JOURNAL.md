@@ -1,3 +1,10 @@
+---
+title: "SwiftPulse"
+author: "Kushagra"
+description: "A powerful, complete timer to be used for speed cubing."
+created_at: "2025-05-30"
+---
+
 # Day 1
 I spent today clearly laying out what I want, and the features that need to be present in the timer. Moreover, I decided on the components I want to use.
 What I want:
