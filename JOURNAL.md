@@ -31,3 +31,6 @@ Nothing special about them. Just buttons,¯\_(ツ)_/¯
 I decided to use a 1.3" 128x64 OLED due to its size and cost-efficiency.
 ## Buzzer
 Again, just a buzzer
+
+# Day 2
+Mostly spent today learning about what I2C actually is and exploring easyeda.
