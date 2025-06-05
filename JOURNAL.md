@@ -24,7 +24,7 @@ What I want:
 
 ## Parts
 ### Microcontroller
-I decided on using an ESP32 since it has bluetooth and wifi capabilities. Moreover, it also has a built in touch sensor, so it will be easier to make the two pads.
+I decided on using an XIAO ESP32C3 since it has bluetooth and wifi capabilities. Moreover, it also has a built in touch sensor, so it will be easier to make the two pads.
 ### Buttons
 Nothing special about them. Just buttons,¯\_(ツ)_/¯
 ## OLED
